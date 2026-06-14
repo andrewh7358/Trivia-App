@@ -6,7 +6,7 @@ interface TriviaResponse {
 }
 
 const trivia: TriviaResponse[] = []
-const url = 'https://opentdb.com/api.php?amount=5&type=multiple'
+const url = 'https://opentdb.com/api.php?amount=10&type=multiple'
 
 export const getTrivia = async () => {
   if (trivia.length) {
