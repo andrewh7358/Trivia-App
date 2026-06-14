@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { getTrivia } from './api'
 import { Card } from './Card'
 import { StartPage } from './StartPage'

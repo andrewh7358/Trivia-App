@@ -1,5 +1,3 @@
-import React from 'react'
-
 interface TriviaPageProps {
   category: string
   question: string

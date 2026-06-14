@@ -1,5 +1,3 @@
-import React from 'react'
-
 interface StartPageProps {
   isLoading: boolean
   getTrivia: () => Promise<void>
