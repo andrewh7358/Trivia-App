@@ -17,4 +17,8 @@ After being retrieved, trivia questions are presented in a multiple choice fashi
 
 In the project directory, run `npm install` then `npm run dev`.
 
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+## Live Demo
+
+Visit the deployed app here:
+
+https://trivia-app-phi-five.vercel.app
