@@ -13,10 +13,6 @@ Retrieved questions are presented in a multiple-choice format. The correct and i
 - Support multiple players.
 - Allow users to select trivia category and difficulty.
 
-## How to run
-
-In the project directory, run `npm install` then `npm run dev`.
-
 ## Live Demo
 
 Visit the deployed app here:
